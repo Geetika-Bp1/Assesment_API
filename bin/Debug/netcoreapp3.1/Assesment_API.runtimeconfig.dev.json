@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kalava.geetika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kalava.geetika\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
